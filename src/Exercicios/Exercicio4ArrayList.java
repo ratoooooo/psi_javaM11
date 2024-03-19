@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Scanner;
 
-public class Exercicio3ArrayList {
+public class Exercicio4ArrayList {
 
     public static void main(String[] args) {
         int op = 0;
